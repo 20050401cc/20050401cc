@@ -22,7 +22,6 @@
 
 - [Windows Ops Toolkit](https://github.com/20050401cc/windows-ops-toolkit) — Windows 诊断、清理、DOCX、发布与项目交付工具集合。
 - [Tiny Web Lab](https://github.com/20050401cc/tiny-web-lab) — 转盘、CSS 宠物、WebGL 体素沙盒。
-- [Computer Use Lite](https://github.com/20050401cc/computer-use-lite) — 截图驱动的计算机操作实验。
 
 ## Coursework
 
